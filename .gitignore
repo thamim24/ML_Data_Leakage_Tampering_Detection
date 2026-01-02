@@ -33,12 +33,6 @@ ENV/
 env/
 .virtualenv
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints/
-.jupyter/
-*.ipynb
-
 # ML/Data Science
 *.pkl
 *.h5
