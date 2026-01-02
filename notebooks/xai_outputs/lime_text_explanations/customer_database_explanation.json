@@ -1,0 +1,52 @@
+{
+  "filename": "customer_database.txt",
+  "predicted_class": "confidential",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "PII",
+      "weight": -0.0560900945725685
+    },
+    {
+      "word": "GDPR",
+      "weight": -0.049615509042293594
+    },
+    {
+      "word": "CONFIDENTIAL",
+      "weight": -0.04154728572953685
+    },
+    {
+      "word": "CCPA",
+      "weight": -0.031206865736887447
+    },
+    {
+      "word": "20",
+      "weight": -0.021244002803944097
+    },
+    {
+      "word": "01",
+      "weight": -0.01942814756936462
+    },
+    {
+      "word": "techstart",
+      "weight": 0.017544284863533304
+    },
+    {
+      "word": "250K",
+      "weight": 0.01704361773224533
+    },
+    {
+      "word": "Database",
+      "weight": 0.0155208661340677
+    },
+    {
+      "word": "sales",
+      "weight": 0.01298861245586243
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 0.0,
+    "confidential": 1.0
+  }
+}

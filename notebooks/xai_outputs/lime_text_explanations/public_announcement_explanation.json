@@ -1,0 +1,52 @@
+{
+  "filename": "public_announcement.txt",
+  "predicted_class": "public",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "Announcement",
+      "weight": -0.3314331233168867
+    },
+    {
+      "word": "employees",
+      "weight": -0.14482771636466277
+    },
+    {
+      "word": "All",
+      "weight": -0.12209112312165342
+    },
+    {
+      "word": "by",
+      "weight": -0.035581699730125545
+    },
+    {
+      "word": "held",
+      "weight": 0.030558409933495567
+    },
+    {
+      "word": "15th",
+      "weight": -0.029266739271641827
+    },
+    {
+      "word": "our",
+      "weight": 0.02903625302970599
+    },
+    {
+      "word": "future",
+      "weight": 0.02204210000961418
+    },
+    {
+      "word": "00",
+      "weight": -0.021479398438529595
+    },
+    {
+      "word": "We",
+      "weight": 0.018932162277272895
+    }
+  ],
+  "class_probabilities": {
+    "public": 1.0,
+    "internal": 0.0,
+    "confidential": 0.0
+  }
+}

@@ -1,0 +1,6 @@
+filename,predicted_sensitivity,confidence,content_length,word_count
+customer_database.txt,confidential,0.9680023193359375,693,86
+finance_report.txt,confidential,0.9618359208106995,485,65
+hr_policy.txt,internal,0.5592724680900574,615,85
+marketing_plan.txt,internal,0.924069344997406,552,82
+public_announcement.txt,public,0.7416747808456421,389,58

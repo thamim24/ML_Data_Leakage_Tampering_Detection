@@ -1,0 +1,52 @@
+{
+  "filename": "finance_report.txt",
+  "predicted_class": "confidential",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "Financial",
+      "weight": -0.014734261967593615
+    },
+    {
+      "word": "Markets",
+      "weight": -0.012314028025234108
+    },
+    {
+      "word": "Sensitive",
+      "weight": -0.012009180535840503
+    },
+    {
+      "word": "confidential",
+      "weight": -0.011740121278559138
+    },
+    {
+      "word": "Operating",
+      "weight": -0.011314840543987218
+    },
+    {
+      "word": "Areas",
+      "weight": -0.011003137913523166
+    },
+    {
+      "word": "International",
+      "weight": 0.01044240983010726
+    },
+    {
+      "word": "CONFIDENTIAL",
+      "weight": -0.010078122557156998
+    },
+    {
+      "word": "contains",
+      "weight": 0.007870942301961491
+    },
+    {
+      "word": "5M",
+      "weight": 0.007481315525702802
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 0.0,
+    "confidential": 1.0
+  }
+}

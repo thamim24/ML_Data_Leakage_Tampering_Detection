@@ -1,0 +1,15 @@
+{
+  "total_entities": 55,
+  "users_evaluated": 50,
+  "documents_evaluated": 5,
+  "total_alerts": 0,
+  "alerts_by_priority": {},
+  "average_risk_score": 0.3647909566186117,
+  "high_risk_entities": 0,
+  "fusion_weights": {
+    "behavior": 0.4,
+    "classification": 0.3,
+    "integrity": 0.3
+  },
+  "timestamp": "2025-12-27 20:36:34"
+}

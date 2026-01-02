@@ -1,0 +1,41 @@
+{
+  "total_documents": 5,
+  "output_directory": "../xai_outputs/lime_text_explanations",
+  "documents": [
+    {
+      "filename": "customer_database.txt",
+      "predicted_class": "confidential",
+      "confidence": 1.0,
+      "html_path": "xai_outputs/lime_text_explanations\\customer_database_explanation.html",
+      "json_path": "xai_outputs/lime_text_explanations\\customer_database_explanation.json"
+    },
+    {
+      "filename": "finance_report.txt",
+      "predicted_class": "confidential",
+      "confidence": 1.0,
+      "html_path": "xai_outputs/lime_text_explanations\\finance_report_explanation.html",
+      "json_path": "xai_outputs/lime_text_explanations\\finance_report_explanation.json"
+    },
+    {
+      "filename": "hr_policy.txt",
+      "predicted_class": "internal",
+      "confidence": 1.0,
+      "html_path": "xai_outputs/lime_text_explanations\\hr_policy_explanation.html",
+      "json_path": "xai_outputs/lime_text_explanations\\hr_policy_explanation.json"
+    },
+    {
+      "filename": "marketing_plan.txt",
+      "predicted_class": "internal",
+      "confidence": 0.6666666666666666,
+      "html_path": "xai_outputs/lime_text_explanations\\marketing_plan_explanation.html",
+      "json_path": "xai_outputs/lime_text_explanations\\marketing_plan_explanation.json"
+    },
+    {
+      "filename": "public_announcement.txt",
+      "predicted_class": "public",
+      "confidence": 1.0,
+      "html_path": "xai_outputs/lime_text_explanations\\public_announcement_explanation.html",
+      "json_path": "xai_outputs/lime_text_explanations\\public_announcement_explanation.json"
+    }
+  ]
+}

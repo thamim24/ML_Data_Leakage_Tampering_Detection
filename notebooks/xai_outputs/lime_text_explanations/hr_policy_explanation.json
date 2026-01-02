@@ -1,0 +1,52 @@
+{
+  "filename": "hr_policy.txt",
+  "predicted_class": "internal",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "internal",
+      "weight": 0.15260010640815602
+    },
+    {
+      "word": "Internal",
+      "weight": 0.13192875216134275
+    },
+    {
+      "word": "Verbal",
+      "weight": 0.038165102906874436
+    },
+    {
+      "word": "Use",
+      "weight": -0.02119356165343391
+    },
+    {
+      "word": "Disciplinary",
+      "weight": -0.02113656983805642
+    },
+    {
+      "word": "document",
+      "weight": -0.017472266344279345
+    },
+    {
+      "word": "for",
+      "weight": 0.01711133666323407
+    },
+    {
+      "word": "should",
+      "weight": 0.01629194934127332
+    },
+    {
+      "word": "5",
+      "weight": -0.01591621629778078
+    },
+    {
+      "word": "k",
+      "weight": -0.007442202159502066
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 1.0,
+    "confidential": 0.0
+  }
+}

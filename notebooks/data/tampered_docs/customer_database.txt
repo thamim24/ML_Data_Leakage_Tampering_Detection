@@ -1,0 +1,13 @@
+Customer Database Extract - HIGHLY CONFIDENTIAL
+
+Customer Records (Sample):
+ID: C001, Name: Acme Corp, Email: contact@acme.com, Phone: 555-0100
+Revenue: $250K annually, Contract: Enterprise Plan, Renewal: 2024-06-15
+
+ID: C002, Name: TechStart Inc, Email: info@techstart.com, Phone: 555-0200
+Revenue: $180K annually, Contract: Professional Plan, Renewal: 2024-08-20
+
+[DELETED SECTION]
+
+CRITICAL: This data contains PII and is protected under GDPR/CCPA.
+Unauthorized access or distribution is prohibited.

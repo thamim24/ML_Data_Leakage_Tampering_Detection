@@ -1,0 +1,11 @@
+feature,importance
+user_data_volume_mb_mean,0.0009158794936873086
+user_session_duration_min_mean,0.0007475469016212811
+user_num_files_accessed_mean,0.0007264073006771048
+user_data_volume_mb_max,0.0006547853403506103
+user_data_volume_mb_std,0.0005838552097660356
+unique_locations,0.0003640513171827009
+user_session_duration_min_std,0.0003354977437224609
+unique_devices,0.0002603510815466963
+user_failed_logins_sum,0.0001795063183608614
+user_num_files_accessed_std,6.940271427154782e-05

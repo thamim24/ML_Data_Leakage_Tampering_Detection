@@ -1,0 +1,52 @@
+{
+  "filename": "marketing_plan.txt",
+  "predicted_class": "internal",
+  "confidence": 0.6666666666666666,
+  "top_features": [
+    {
+      "word": "Financial",
+      "weight": -0.44611609415241626
+    },
+    {
+      "word": "Internal",
+      "weight": 0.3444997434197337
+    },
+    {
+      "word": "for",
+      "weight": 0.11016312318992443
+    },
+    {
+      "word": "external",
+      "weight": 0.09775100377411405
+    },
+    {
+      "word": "not",
+      "weight": 0.09391320352807123
+    },
+    {
+      "word": "through",
+      "weight": -0.0314348589480547
+    },
+    {
+      "word": "stories",
+      "weight": -0.022568873595016182
+    },
+    {
+      "word": "Product",
+      "weight": -0.02241266416923965
+    },
+    {
+      "word": "Digital",
+      "weight": -0.020628887144128
+    },
+    {
+      "word": "distribution",
+      "weight": -0.010418914585550205
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 0.6666666666666666,
+    "confidential": 0.3333333333333333
+  }
+}

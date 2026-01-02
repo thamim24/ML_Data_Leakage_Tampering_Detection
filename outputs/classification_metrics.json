@@ -1,0 +1,52 @@
+{
+  "accuracy": 1.0,
+  "correct_predictions": 5,
+  "total_documents": 5,
+  "per_document": [
+    {
+      "filename": "customer_database.txt",
+      "predicted_sensitivity": "confidential",
+      "confidence": 0.9680023193359375,
+      "content_length": 693,
+      "word_count": 86,
+      "true_sensitivity": "confidential",
+      "correct": 1
+    },
+    {
+      "filename": "finance_report.txt",
+      "predicted_sensitivity": "confidential",
+      "confidence": 0.9618359208106995,
+      "content_length": 485,
+      "word_count": 65,
+      "true_sensitivity": "confidential",
+      "correct": 1
+    },
+    {
+      "filename": "hr_policy.txt",
+      "predicted_sensitivity": "internal",
+      "confidence": 0.5592724680900574,
+      "content_length": 615,
+      "word_count": 85,
+      "true_sensitivity": "internal",
+      "correct": 1
+    },
+    {
+      "filename": "marketing_plan.txt",
+      "predicted_sensitivity": "internal",
+      "confidence": 0.924069344997406,
+      "content_length": 552,
+      "word_count": 82,
+      "true_sensitivity": "internal",
+      "correct": 1
+    },
+    {
+      "filename": "public_announcement.txt",
+      "predicted_sensitivity": "public",
+      "confidence": 0.7416747808456421,
+      "content_length": 389,
+      "word_count": 58,
+      "true_sensitivity": "public",
+      "correct": 1
+    }
+  ]
+}

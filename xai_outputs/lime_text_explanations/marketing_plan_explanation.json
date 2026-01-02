@@ -1,0 +1,52 @@
+{
+  "filename": "marketing_plan.txt",
+  "predicted_class": "internal",
+  "confidence": 0.6666666666666666,
+  "top_features": [
+    {
+      "word": "Financial",
+      "weight": -0.463719880899081
+    },
+    {
+      "word": "Internal",
+      "weight": 0.342364782706025
+    },
+    {
+      "word": "for",
+      "weight": 0.09655015365093854
+    },
+    {
+      "word": "external",
+      "weight": 0.09492962218959883
+    },
+    {
+      "word": "not",
+      "weight": 0.08821326240306782
+    },
+    {
+      "word": "Brand",
+      "weight": 0.04532926286712894
+    },
+    {
+      "word": "sector",
+      "weight": 0.03406215076237493
+    },
+    {
+      "word": "Customer",
+      "weight": -0.023778425376672175
+    },
+    {
+      "word": "case",
+      "weight": -0.02123465229621316
+    },
+    {
+      "word": "services",
+      "weight": -0.01690901213901657
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 0.6666666666666666,
+    "confidential": 0.3333333333333333
+  }
+}

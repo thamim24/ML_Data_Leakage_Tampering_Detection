@@ -1,0 +1,84 @@
+# Markdown files - ignore all except README.md
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.virtualenv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+.jupyter/
+*.ipynb
+
+# ML/Data Science
+*.pkl
+*.h5
+*.hdf5
+*.model
+*.joblib
+*.ckpt
+*.pth
+*.pt
+
+# Data files (uncomment if you want to ignore data)
+# *.csv
+# *.json
+# *.txt
+# data/
+# outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Operating System
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache

@@ -1,0 +1,52 @@
+{
+  "filename": "customer_database.txt",
+  "predicted_class": "confidential",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "CCPA",
+      "weight": -0.05515483491043105
+    },
+    {
+      "word": "PII",
+      "weight": -0.04069608315489138
+    },
+    {
+      "word": "CONFIDENTIAL",
+      "weight": -0.03661367620228219
+    },
+    {
+      "word": "GDPR",
+      "weight": -0.029316090008751988
+    },
+    {
+      "word": "HIGHLY",
+      "weight": -0.027192123529039956
+    },
+    {
+      "word": "acme",
+      "weight": 0.02412104699565032
+    },
+    {
+      "word": "info",
+      "weight": -0.024072789259850194
+    },
+    {
+      "word": "Phone",
+      "weight": -0.021841451467048856
+    },
+    {
+      "word": "Contract",
+      "weight": 0.021809052994160236
+    },
+    {
+      "word": "Email",
+      "weight": 0.01771977288659349
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 0.0,
+    "confidential": 1.0
+  }
+}

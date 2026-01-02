@@ -1,0 +1,52 @@
+{
+  "filename": "public_announcement.txt",
+  "predicted_class": "public",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "Announcement",
+      "weight": -0.30626231347742916
+    },
+    {
+      "word": "employees",
+      "weight": -0.11190376465692202
+    },
+    {
+      "word": "All",
+      "weight": -0.11166332623846131
+    },
+    {
+      "word": "Conference",
+      "weight": 0.033248291113290016
+    },
+    {
+      "word": "Time",
+      "weight": -0.03282506228055706
+    },
+    {
+      "word": "10",
+      "weight": -0.030938427190138337
+    },
+    {
+      "word": "AM",
+      "weight": 0.029363959325780533
+    },
+    {
+      "word": "00",
+      "weight": -0.022785664709662614
+    },
+    {
+      "word": "team",
+      "weight": -0.021145415232372036
+    },
+    {
+      "word": "Location",
+      "weight": -0.01524340603300141
+    }
+  ],
+  "class_probabilities": {
+    "public": 1.0,
+    "internal": 0.0,
+    "confidential": 0.0
+  }
+}

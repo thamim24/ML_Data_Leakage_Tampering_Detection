@@ -1,0 +1,52 @@
+{
+  "filename": "hr_policy.txt",
+  "predicted_class": "internal",
+  "confidence": 1.0,
+  "top_features": [
+    {
+      "word": "Internal",
+      "weight": 0.1755010419376312
+    },
+    {
+      "word": "internal",
+      "weight": 0.1434807469095463
+    },
+    {
+      "word": "Review",
+      "weight": 0.029496856244259604
+    },
+    {
+      "word": "Immediate",
+      "weight": -0.020668103383499278
+    },
+    {
+      "word": "to",
+      "weight": -0.020211475221042646
+    },
+    {
+      "word": "Off",
+      "weight": 0.017615846665870134
+    },
+    {
+      "word": "Employee",
+      "weight": 0.017015423885917334
+    },
+    {
+      "word": "Paid",
+      "weight": -0.016994801472797114
+    },
+    {
+      "word": "Leave",
+      "weight": -0.01188120002115837
+    },
+    {
+      "word": "Serious",
+      "weight": -0.0060699791690322
+    }
+  ],
+  "class_probabilities": {
+    "public": 0.0,
+    "internal": 1.0,
+    "confidential": 0.0
+  }
+}

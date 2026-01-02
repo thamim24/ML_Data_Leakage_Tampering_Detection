@@ -1,0 +1,11 @@
+{
+  "total_documents": 5,
+  "intact_documents": 3,
+  "tampered_documents": 2,
+  "tampering_rate": 0.4,
+  "semantic_similarity_enabled": true,
+  "severity_distribution": {
+    "moderate": 1,
+    "minor": 1
+  }
+}

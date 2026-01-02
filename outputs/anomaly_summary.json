@@ -1,0 +1,17 @@
+{
+  "total_users": 50,
+  "anomalous_users": 5,
+  "anomaly_rate": 0.1,
+  "risk_levels": {
+    "low": 25,
+    "medium": 12,
+    "high": 8,
+    "critical": 5
+  },
+  "score_stats": {
+    "mean": -0.47260384229474683,
+    "std": 0.077231675930812,
+    "min": -0.6854578038985936,
+    "max": -0.38545893520846514
+  }
+}

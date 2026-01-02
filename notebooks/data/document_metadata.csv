@@ -1,0 +1,6 @@
+filename,sensitivity,hash,created_date,size_bytes
+public_announcement.txt,public,9db3590bbb366893aa65a8a5e230fe81b709f4a0b9972a79618ce491a206d0a6,2025-12-27,396
+finance_report.txt,confidential,0c561f093a28dae901d83e6a4ff3aabe5caa47782f3069c522d8377de4d746ae,2025-12-27,505
+hr_policy.txt,internal,e4a7abb914a97bd98c7dcf705d5baa177279d509f9dc094afd8c4ae0aa63cacb,2025-12-27,632
+customer_database.txt,confidential,68c6db56580dffefe8b0470a48fb348634f2160fac3cb28cf17b9cb819244b41,2025-12-27,707
+marketing_plan.txt,internal,0b5f1bfc6fe0233be534cbe2ce992e573b90af45710ac2d912f00ecbda7f01b5,2025-12-27,572
